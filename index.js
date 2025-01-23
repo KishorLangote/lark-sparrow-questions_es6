@@ -125,7 +125,7 @@ const books = [
 const booksAuthorNameWithA = books.filter((book) => book.author.includes('A'));
 console.log(booksAuthorNameWithA);
 
-console.log('Q: 13');
+console.log('Q: 13')
 
 const wordsFilter = ['level', 'apple', 'radar', 'banana', 'civic'];
 
